@@ -1100,6 +1100,9 @@ hr:before {
     html {
         font-size: 11pt;
     }
+    .icons li {
+        margin: 0.375rem;
+    }
 }
 
 @media (max-width: 736px) {
